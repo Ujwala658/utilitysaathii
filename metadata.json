@@ -1,0 +1,6 @@
+{
+  "name": "Utility Saathi",
+  "description": "Unified electricity and water utility management system for tenants, property owners, and administrators in India with transparent billing, duplicate-payment protection, incident clustering, and explainable alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
